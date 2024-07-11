@@ -1,0 +1,6 @@
+django
+django-mongoengine
+djangorestframework
+django-cors-headers
+pymongo
+sqlparse
